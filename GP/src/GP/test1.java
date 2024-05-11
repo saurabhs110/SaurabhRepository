@@ -16,7 +16,7 @@ public class test1 {
 	        temp = x;
 	        x = z;
 	        z = temp;
-	        System.out.println("After Swapping: " + x + z);
+	        System.out.println("Afters Swapping: " + x + z);
 	         
 	    } 
 		
