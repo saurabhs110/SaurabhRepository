@@ -12,7 +12,7 @@ public class test1 {
 	        Scanner in = new Scanner(System.in);
 	        x = in.nextInt();
 	        z = in.nextInt();
-	        System.out.println("Before Swapping: " + x + z);
+	        System.out.println("Befores Swapping: " + x + z);
 	        temp = x;
 	        x = z;
 	        z = temp;
