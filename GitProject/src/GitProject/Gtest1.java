@@ -19,7 +19,7 @@ public class Gtest1 {
 		        x = z;
 		        z = temp;
 		        System.out.println("After Swapping: " + x + z);
-		         
+		        System.out.println("Varibale has changed successfully");
 		    } 
 			
 }
