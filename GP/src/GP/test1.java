@@ -7,16 +7,16 @@ public class test1 {
 		 
 	
 	        // TODO Auto-generated method stub
-	        int x, y, temp;
-	        System.out.println("Enter x and y");
+	        int x, z, temp;
+	        System.out.println("Enter x and Z");
 	        Scanner in = new Scanner(System.in);
 	        x = in.nextInt();
-	        y = in.nextInt();
-	        System.out.println("Before Swapping: " + x + y);
+	        z = in.nextInt();
+	        System.out.println("Before Swapping: " + x + z);
 	        temp = x;
-	        x = y;
-	        y = temp;
-	        System.out.println("After Swapping: " + x + y);
+	        x = z;
+	        z = temp;
+	        System.out.println("After Swapping: " + x + z);
 	         
 	    } 
 		
